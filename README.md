@@ -18,4 +18,4 @@ NumPy
 
 Additional Notes:
 
-Original Video: https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=8&t=4991s
+Original Video: https://www.youtube.com/watch?v=kCc8FmEb1nY
